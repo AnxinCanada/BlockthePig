@@ -1,4 +1,3 @@
-https://github.com/AnxinCanada/BlockthePig/raw/main/Block-The-Pig-Chrome-Extension.zip
 # Block the Pig
 ##### A Chrome Extension Developed by Eric
 
